@@ -66,7 +66,7 @@ color: #fff;
 }
 /* about section*/
 .about-section{
-    padding: 30px;
+    padding-top: 30px;
     display: flex;
     background-image: url(./images/shapes/Frame\ 58.jpg);
     background-repeat: no-repeat;
@@ -95,4 +95,44 @@ color: #fff;
 }
 .about-section-right a{
     margin-top: 60px;
+}
+/*recipie section*/
+.recipie-section{
+    padding: 70px;
+}
+.recipie-content h2{
+    text-align: center;
+    font-size: 35px;
+    color: #767676;
+}
+.recipie-content p{
+          font-size: 25px;
+          text-align: center;
+          margin-top: 30px;
+}
+.recipie-item{
+    display: flex;
+    margin-top: 60px;
+
+}
+.all-recipie{
+    width: 31.3%;
+    margin-right: 4%;
+    box-shadow: 10px 10px 30px gray;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.all-recipie img{
+    width: 80%;
+    text-align: center;
+    margin-left: 35px;
+    margin-top: 25px;
+   
+}
+.recipie-content h2{
+  margin-top: 15px;
+}
+.recipie-content p{
+    font-size: 18px;
+    margin: 10px;
 }
