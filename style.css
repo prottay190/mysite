@@ -136,3 +136,36 @@ color: #fff;
     font-size: 18px;
     margin: 10px;
 }
+/*order section*/
+.order-section{
+    display: flex;
+    padding: 40px;
+    background-image: url(./images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+.order-section-left{
+    width: 50%;
+}
+.order-section-right{
+    width: 48%;
+    margin-left: 2%;
+    
+}
+.order-section-right h1{
+    font-size: 40px;
+    color: rgb(245, 179, 56);
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+#text{
+    display: inline;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+.order-section-right form {
+    font-size: 30px;
+}
+.order-section-right form a{
+    margin-top: 25px;
+}
