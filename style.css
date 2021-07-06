@@ -169,3 +169,21 @@ color: #fff;
 .order-section-right form a{
     margin-top: 25px;
 }
+/* footer section*/
+.footer-section{
+    padding: 70px;
+    color: #fff;
+    background: rgb(20, 20, 20);
+    text-align: center;
+}
+.footer-section h1 {
+    color: #767676;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.footer-section h1 span{
+    color: #fe8c00;
+}
+.footer-section p{
+    font-size: 15px;
+}
